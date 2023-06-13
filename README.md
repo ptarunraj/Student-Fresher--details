@@ -1,4 +1,4 @@
-# Student-Fresher--details
+# Student Job Application
 
 Here i have created a simple student/Fresher details collection system  
 
