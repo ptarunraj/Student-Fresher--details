@@ -2,6 +2,8 @@
 
 Here i have created a simple student/Fresher details collection system  
 
+This can be used by any university/company to collect student details for jobs
+
 TECH STACK:
 1)XAMPP
 2)PHP
