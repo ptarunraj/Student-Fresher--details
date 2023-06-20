@@ -12,7 +12,7 @@
     </head>
     <body>
         <div class = "title">
-            <h1>File Uploading System</h1>
+            <h1>Upload Your Details</h1>
         </div>
         <div class="container">  
             <form class = "forms" action = "#" method = "POST" enctype="multipart/form-data">
